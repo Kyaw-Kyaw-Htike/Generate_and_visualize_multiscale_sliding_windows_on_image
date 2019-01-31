@@ -1,0 +1,2 @@
+# Generate_and_visualize_multiscale_sliding_windows_on_image
+Generate_and_visualize_multiscale_sliding_windows_on_image
